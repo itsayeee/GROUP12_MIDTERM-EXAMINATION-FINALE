@@ -74,6 +74,8 @@ Participants in the activity will modify and illustrate numerous Text, Math, Log
       𝑺𝒚𝒏𝒕𝒂𝒙
           =𝘈𝘉𝘚(𝘯𝘶𝘮𝘣𝘦𝘳)
 
+![ABS](https://github.com/itsayeee/GROUP12_MIDTERM-EXAMINATION-FINALE/assets/144222201/0cf4e43b-4f74-43d1-81bb-7df4ae15c4d6)
+
   ## 2B. SIGN
 
         -> The Excel SIGN function returns the sign of a number as +1, 1, or 0.
@@ -83,6 +85,8 @@ Participants in the activity will modify and illustrate numerous Text, Math, Log
 
         𝑺𝒚𝒏𝒕𝒂𝒙
           =𝘚𝘐𝘎𝘕(𝘯𝘶𝘮𝘣𝘦𝘳)
+
+![SIGN](https://github.com/itsayeee/GROUP12_MIDTERM-EXAMINATION-FINALE/assets/144222201/c0f697d9-ba59-43dd-bed1-570555fffddb)
   
   ## 2C. GCD
 
@@ -91,6 +95,8 @@ Participants in the activity will modify and illustrate numerous Text, Math, Log
 
         𝑺𝒚𝒏𝒕𝒂𝒙
             =𝘎𝘊𝘋(𝘯𝘶𝘮𝘣𝘦𝘳1, [𝘯𝘶𝘮𝘣𝘦𝘳2], …)
+
+![GCD](https://github.com/itsayeee/GROUP12_MIDTERM-EXAMINATION-FINALE/assets/144222201/25ac74fb-b7da-446c-8a89-dda5c354b764)
   
   ## 2D. LCM
   
@@ -99,7 +105,9 @@ Participants in the activity will modify and illustrate numerous Text, Math, Log
 
           𝑺𝒚𝒏𝒕𝒂𝒙
               =𝘓𝘊𝘔(𝘯𝘶𝘮𝘣𝘦𝘳1, [𝘯𝘶𝘮𝘣𝘦𝘳2], …)
-  
+
+![LCM](https://github.com/itsayeee/GROUP12_MIDTERM-EXAMINATION-FINALE/assets/144222201/391b0515-7256-4a19-9bec-f8b55b71f6b7)
+
   ## 2E. POWER
 
       -> The Excel POWER function returns a number to a given power.
@@ -107,6 +115,9 @@ Participants in the activity will modify and illustrate numerous Text, Math, Log
 
       𝑺𝒚𝒏𝒕𝒂𝒙
           =𝘗𝘖𝘞𝘌𝘙(𝘯𝘶𝘮𝘣𝘦𝘳, 𝘱𝘰𝘸𝘦𝘳)
+
+![POWER](https://github.com/itsayeee/GROUP12_MIDTERM-EXAMINATION-FINALE/assets/144222201/8bfdde8e-a414-4c9d-a8d8-e87068ac0455)
+
 
 # 3. LOGICAL FUNCTIONS
 
