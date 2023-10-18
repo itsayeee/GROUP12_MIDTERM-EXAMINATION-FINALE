@@ -16,7 +16,7 @@ Participants in the activity will modify and illustrate numerous Text, Math, Log
 # 1. TEXT FUNCTIONS
   ## 1A. TRIM
       
-        The Microsoft Excel TRIM function returns a text value with the leading and trailing spaces removed. You can also use the TRIM function to remove unnecessary spaces between
+        -> The Microsoft Excel TRIM function returns a text value with the leading and trailing spaces removed. You can also use the TRIM function to remove unnecessary spaces between
         words in a string.
         
       𝑺𝒚𝒏𝒕𝒂𝒙
@@ -26,7 +26,7 @@ Participants in the activity will modify and illustrate numerous Text, Math, Log
         
    ## 1B. UPPER
 
-         The Microsoft Excel UPPER function allows you to convert text to all uppercase.
+         -> The Microsoft Excel UPPER function allows you to convert text to all uppercase.
          
       𝑺𝒚𝒏𝒕𝒂𝒙
         =𝘜𝘗𝘗𝘌𝘙(𝘵𝘦𝘹𝘵)
@@ -35,7 +35,7 @@ Participants in the activity will modify and illustrate numerous Text, Math, Log
         
    ## 1C. LOWER
 
-          The Microsoft Excel UPPER function allows you to convert text to all lowercase.
+          -> The Microsoft Excel UPPER function allows you to convert text to all lowercase.
 
       𝑺𝒚𝒏𝒕𝒂𝒙
         =𝘓𝘖𝘞𝘌𝘙(𝘵𝘦𝘹𝘵)
@@ -44,7 +44,7 @@ Participants in the activity will modify and illustrate numerous Text, Math, Log
 
   ## 1D. PROPER
 
-          The Microsoft Excel PROPER function sets the first character in each word to uppercase and the rest to lowercase.
+          -> The Microsoft Excel PROPER function sets the first character in each word to uppercase and the rest to lowercase.
 
       𝑺𝒚𝒏𝒕𝒂𝒙
          = 𝘗𝘙𝘖𝘗𝘌𝘙(𝘵𝘦𝘹𝘵)
@@ -52,7 +52,7 @@ Participants in the activity will modify and illustrate numerous Text, Math, Log
 
   ## 1E. SUBSTITUTE
 
-          The Microsoft Excel SUBSTITUTE function replaces a set of characters with another.
+          -> The Microsoft Excel SUBSTITUTE function replaces a set of characters with another.
           
       𝑺𝒚𝒏𝒕𝒂𝒙
            =𝘚𝘜𝘉𝘚𝘛𝘐𝘛𝘜𝘛𝘌(𝘵𝘦𝘹𝘵,𝘰𝘭𝘥_𝘵𝘦𝘹𝘵,𝘯𝘦𝘸_𝘵𝘦𝘹𝘵, [𝘯𝘵𝘩_𝘢𝘱𝘱𝘦𝘢𝘳𝘢𝘯𝘤𝘦])
@@ -66,15 +66,74 @@ Participants in the activity will modify and illustrate numerous Text, Math, Log
 
 ![SUB](https://github.com/itsayeee/GROUP12_MIDTERM-EXAMINATION-FINALE/assets/144222201/d2b2c608-f8c6-489e-b3e8-579204c9cbcb)
 
-# B. MATH FUNCTIONS
+# 2. MATH FUNCTIONS
+  ## 2A. ABS
 
-# C. LOGICAL FUNCTIONS
+        -> The ABS (Absolute Value) function in Excel returns the absolute value of a number. In other words: the ABS function removes the minus sign ( - ) from a negative number, making it
+        
+      𝑺𝒚𝒏𝒕𝒂𝒙
+          =𝘈𝘉𝘚(𝘯𝘶𝘮𝘣𝘦𝘳)
 
-# D. INFORMATION FUNCTIONS
+  ## 2B. SIGN
 
-# E. DATE AND TIME FUNCTIONS
+        -> The Excel SIGN function returns the sign of a number as +1, 1, or 0.
+        -> If the number is greater than zero, the SIGN function will return 1.
+        -> If the number is equal to zero, the SIGN function will return 0.
+        -> If the number is less than zero, the SIGN function will return 1
 
-# F. LOOKUP FUNCTIONS
+        𝑺𝒚𝒏𝒕𝒂𝒙
+          =𝘚𝘐𝘎𝘕(𝘯𝘶𝘮𝘣𝘦𝘳)
+  
+  ## 2C. GCD
+
+        -> GCD (Greatest Common Divisor) function is used to get the greatest common divisor of two or more integers.
+        -> The greatest common divisor is the largest positive integer that divides the numbers without a remainder.
+
+        𝑺𝒚𝒏𝒕𝒂𝒙
+            =𝘎𝘊𝘋(𝘯𝘶𝘮𝘣𝘦𝘳1, [𝘯𝘶𝘮𝘣𝘦𝘳2], …)
+  
+  ## 2D. LCM
+  
+          -> The LCM (Least Common Multiple) Function Calculates the least common multiple between two or more numbers.
+          -> The least common multiple is the smallest integer that can be divided by all the numbers provided.
+
+          𝑺𝒚𝒏𝒕𝒂𝒙
+              =𝘓𝘊𝘔(𝘯𝘶𝘮𝘣𝘦𝘳1, [𝘯𝘶𝘮𝘣𝘦𝘳2], …)
+  
+  ## 2E. POWER
+
+      -> The Excel POWER function returns a number to a given power.
+      -> The POWER function works like an exponent in a standard math equation.
+
+      𝑺𝒚𝒏𝒕𝒂𝒙
+          =𝘗𝘖𝘞𝘌𝘙(𝘯𝘶𝘮𝘣𝘦𝘳, 𝘱𝘰𝘸𝘦𝘳)
+
+# 3. LOGICAL FUNCTIONS
+
+# 4. INFORMATION FUNCTIONS
+  ## 4A. ISERROR
+
+  ## 4B. ISNUMBER
+
+  ## 4C. ISODD
+
+  ## 4D. ISEVEN
+
+  ## 4E. ISTEXT
+
+# 5. DATE AND TIME FUNCTIONS
+  ## 5A. DATE
+  ## 5B. DATEVALUE
+  ## 5C. NOW AND TODAY
+  ## 5D. DATE,MONTH,YEAR
+  ## 5E. DAYS
+
+# 6. LOOKUP FUNCTIONS
+  ## 6A. LOOKUP
+  ## 6B. CHOOSE
+  ## 6C. MATCH
+  ## 6D. INDIRECT
+  ## 6E. COLUMN
 
 
 
