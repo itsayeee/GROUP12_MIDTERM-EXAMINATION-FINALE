@@ -163,10 +163,23 @@ Participants in the activity will modify and illustrate numerous Text, Math, Log
 
 # 6. LOOKUP FUNCTIONS
   ## 6A. LOOKUP
+        -> The Microsoft Excel LOOKUP function returns a value from a range (one row or one column) or from an array.
+
+        𝑺𝒚𝒏𝒕𝒂𝒙
+            =𝘓𝘖𝘖𝘒𝘜𝘗( 𝘷𝘢𝘭𝘶𝘦, 𝘭𝘰𝘰𝘬𝘶𝘱_𝘳𝘢𝘯𝘨𝘦, [𝘳𝘦𝘴𝘶𝘭𝘵_𝘳𝘢𝘯𝘨𝘦] ) 
+            
   ## 6B. CHOOSE
+        -> The CHOOSE function in Excel is designed to return a value from the list based on a specified position.
+
+        𝑺𝒚𝒏𝒕𝒂𝒙
+            = 𝘊𝘏𝘖𝘖𝘚𝘌(𝘱𝘰𝘴𝘪𝘵𝘪𝘰𝘯, 𝘷𝘢𝘭𝘶𝘦1, [𝘷𝘢𝘭𝘶𝘦2, ... 𝘷𝘢𝘭𝘶𝘦_𝘯]
   ## 6C. MATCH
   ## 6D. INDIRECT
   ## 6E. COLUMN
+        -> The Excel COLUMNS function returns the count of columns in a given reference
+
+        𝑺𝒚𝒏𝒕𝒂𝒙
+            =𝘊𝘖𝘓𝘜𝘔𝘕𝘚 (𝘢𝘳𝘳𝘢𝘺)
 
 
 
