@@ -64,7 +64,7 @@ Participants in the activity will modify and illustrate numerous Text, Math, Log
             -> new_text - The new characters to replace old_text with.
             -> nth_appearance Optional It is the nth appearance of the old_text that you wish to replace. If this parameter is omitted, then every occurrence of old_text will be replaced with test text
 
-![SUB](https://github.com/itsayeee/GROUP12_MIDTERM-EXAMINATION-FINALE/assets/144222201/d2b2c608-f8c6-489e-b3e8-579204c9cbcb)
+![SUB (2)](https://github.com/itsayeee/GROUP12_MIDTERM-EXAMINATION-FINALE/assets/144222201/1dc6ccca-15a4-4165-baa1-d16372025aa6)
 
 # 2. MATH FUNCTIONS
   ## 2A. ABS
