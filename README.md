@@ -48,6 +48,7 @@ Participants in the activity will modify and illustrate numerous Text, Math, Log
 
       𝑺𝒚𝒏𝒕𝒂𝒙
          = 𝘗𝘙𝘖𝘗𝘌𝘙(𝘵𝘦𝘹𝘵)
+![PROPER](https://github.com/itsayeee/GROUP12_MIDTERM-EXAMINATION-FINALE/assets/144222201/9938fe97-58e1-46d5-9355-55f19bd9a3ca)
 
   ## 1E. SUBSTITUTE
 
@@ -62,6 +63,8 @@ Participants in the activity will modify and illustrate numerous Text, Math, Log
             -> old_text - The existing characters to replace
             -> new_text - The new characters to replace old_text with.
             -> nth_appearance Optional It is the nth appearance of the old_text that you wish to replace. If this parameter is omitted, then every occurrence of old_text will be replaced with test text
+
+![SUB](https://github.com/itsayeee/GROUP12_MIDTERM-EXAMINATION-FINALE/assets/144222201/d2b2c608-f8c6-489e-b3e8-579204c9cbcb)
 
 # B. MATH FUNCTIONS
 
