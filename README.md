@@ -159,6 +159,20 @@ Participants in the activity will modify and illustrate numerous Text, Math, Log
   ## 5B. DATEVALUE
   ## 5C. NOW AND TODAY
   ## 5D. DATE,MONTH,YEAR
+      DAY
+          -> The Excel DAY function returns the day of the month as a number between 1 to 31 from a given date.
+          
+      MONTH
+          -> The Excel MONTH function extracts the month from a given date as a number between 1 to 12.
+          
+      YEAR
+          -> The Excel YEAR function returns the year component of a given date as a 4-digit number.
+      
+      𝑺𝒚𝒏𝒕𝒂𝒙
+          =𝘋𝘈𝘠(𝘴𝘦𝘳𝘪𝘢𝘭_𝘯𝘶𝘮𝘣𝘦𝘳)
+          =𝘔𝘖𝘕𝘛𝘏(𝘴𝘦𝘳𝘪𝘢𝘭_𝘯𝘶𝘮𝘣𝘦𝘳)
+          =𝘠𝘌𝘈𝘙(𝘴𝘦𝘳𝘪𝘢𝘭_𝘯𝘶𝘮𝘣𝘦𝘳)
+          
   ## 5E. DAYS
 
 # 6. LOOKUP FUNCTIONS
@@ -174,6 +188,10 @@ Participants in the activity will modify and illustrate numerous Text, Math, Log
         𝑺𝒚𝒏𝒕𝒂𝒙
             = 𝘊𝘏𝘖𝘖𝘚𝘌(𝘱𝘰𝘴𝘪𝘵𝘪𝘰𝘯, 𝘷𝘢𝘭𝘶𝘦1, [𝘷𝘢𝘭𝘶𝘦2, ... 𝘷𝘢𝘭𝘶𝘦_𝘯]
   ## 6C. MATCH
+        -> The Excel MATCH function returns the position of an item in a range
+
+        𝑺𝒚𝒏𝒕𝒂𝒙
+            =𝘔𝘈𝘛𝘊𝘏(𝘭𝘰𝘰𝘬𝘶𝘱_𝘵𝘺𝘱𝘦, 𝘭𝘰𝘰𝘬𝘶𝘱_𝘢𝘳𝘳𝘢𝘺, 𝘮𝘢𝘵𝘤𝘩_𝘵𝘺𝘱𝘦
   ## 6D. INDIRECT
   ## 6E. COLUMN
         -> The Excel COLUMNS function returns the count of columns in a given reference
