@@ -196,7 +196,7 @@ Participants in the activity will modify and illustrate numerous Text, Math, Log
 
 ***Syntax*** 
 
-=*Datevalue("year-month-day")*
+   =*Datevalue("year-month-day")*
 
   ## 5C. NOW AND TODAY
       -> The Excel NOW() function returns the current date and time, updated continuously when a worksheet is changed or opened.
@@ -226,7 +226,8 @@ Participants in the activity will modify and illustrate numerous Text, Math, Log
           -> With a start date A1 and end date in B1, =DAYS(B1,A1) will return the days between the two dates 
 
 ***Syntax*** 
-=*DAYS(end_date, start_date)*
+
+    =*DAYS(end_date, start_date)*
 
 # 6. LOOKUP FUNCTIONS
   ## 6A. LOOKUP
@@ -248,7 +249,15 @@ Participants in the activity will modify and illustrate numerous Text, Math, Log
   ## 6D. INDIRECT
         -> The Excel INDIRECT function returns the reference to a cell based on its string representation.
 
+*Parameters:*
+
+    *string_reference* - A textual representation of a cell reference.
+
+    *ref_style* - Optional. It is the reference style to use: either A1 or R1C1. If this parameter is omitted, it assumes that the ref_style is set to TRUE.
+
+
 ***Syntax***
+
 =*INDIRECT (string_reference, [ref_styel])*
 
   ## 6E. COLUMN
