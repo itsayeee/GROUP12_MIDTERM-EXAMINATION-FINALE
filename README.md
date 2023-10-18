@@ -224,13 +224,17 @@ Participants in the activity will modify and illustrate numerous Text, Math, Log
   ***Syntax***
 
   =*Date(year,month,day)*
-  
+
+![DATE](https://github.com/itsayeee/GROUP12_MIDTERM-EXAMINATION-FINALE/assets/144222201/614061d0-e439-4e93-9dd1-29383ad6f51b)
+
   ## 5B. DATEVALUE
       -> The Excel DATEVALUE function converts text that appears in a recognized format (i.e. a number, date, or time format) into a numeric value 
 
 ***Syntax*** 
 
    =*Datevalue("year-month-day")*
+
+![DATEVALUE](https://github.com/itsayeee/GROUP12_MIDTERM-EXAMINATION-FINALE/assets/144222201/f9ad2a70-d1e4-4505-82f7-a73689c24093)
 
   ## 5C. NOW AND TODAY
       -> The Excel NOW() function returns the current date and time, updated continuously when a worksheet is changed or opened.
@@ -239,6 +243,8 @@ Participants in the activity will modify and illustrate numerous Text, Math, Log
       𝑺𝒚𝒏𝒕𝒂𝒙
          =𝘕𝘖𝘞() 
         =𝘛𝘖𝘋𝘈𝘠()
+
+![NOW AND TODAY](https://github.com/itsayeee/GROUP12_MIDTERM-EXAMINATION-FINALE/assets/144222201/23c2a486-23e2-47c5-90d7-9ec791867ef7)
         
   ## 5D. DATE,MONTH,YEAR
       DAY
@@ -254,6 +260,8 @@ Participants in the activity will modify and illustrate numerous Text, Math, Log
           =𝘋𝘈𝘠(𝘴𝘦𝘳𝘪𝘢𝘭_𝘯𝘶𝘮𝘣𝘦𝘳)
           =𝘔𝘖𝘕𝘛𝘏(𝘴𝘦𝘳𝘪𝘢𝘭_𝘯𝘶𝘮𝘣𝘦𝘳)
           =𝘠𝘌𝘈𝘙(𝘴𝘦𝘳𝘪𝘢𝘭_𝘯𝘶𝘮𝘣𝘦𝘳)
+
+![DATE,MONTHYEAR](https://github.com/itsayeee/GROUP12_MIDTERM-EXAMINATION-FINALE/assets/144222201/b5852c8b-efc8-4ff2-aa09-9db7bd8fc8dc)
           
   ## 5E. DAYS
           -> The Excel DAYS function returns the number of days between two dates 
@@ -262,6 +270,8 @@ Participants in the activity will modify and illustrate numerous Text, Math, Log
 ***Syntax*** 
 
     =*DAYS(end_date, start_date)*
+
+![DAYS](https://github.com/itsayeee/GROUP12_MIDTERM-EXAMINATION-FINALE/assets/144222201/6a7be027-5200-45f6-a6d7-be6220093a1c)
 
 # 6. LOOKUP FUNCTIONS
   ## 6A. LOOKUP
