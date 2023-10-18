@@ -156,6 +156,7 @@ Participants in the activity will modify and illustrate numerous Text, Math, Log
         -> The Excel ISERROR function returns TRUE for any error type Excel generates, including #N/A, #VALUE!, #REF!, #DIV/0!, #NUM!, #NAME?, or #NULL!.
 
 𝑺𝒚𝒏𝒕𝒂𝒙
+
 =*ISERROR (value)*
             
   ## 4B. ISNUMBER
@@ -185,11 +186,18 @@ Participants in the activity will modify and illustrate numerous Text, Math, Log
         -> The ISTEXT function is used to determine whether a cell's data contains a text or not. The formula returns "TRUE" when the input is a text and "FALSE" when it is not.
         
         𝑺𝒚𝒏𝒕𝒂𝒙
+        
               =𝘐𝘚𝘛𝘌𝘟𝘛(𝘷𝘢𝘭𝘶𝘦)
 
 # 5. DATE AND TIME FUNCTIONS
   ## 5A. DATE
   ## 5B. DATEVALUE
+      -> The Excel DATEVALUE function converts text that appears in a recognized format (i.e. a number, date, or time format) into a numeric value 
+
+***Syntax*** 
+
+=*Datevalue("year-month-day")*
+
   ## 5C. NOW AND TODAY
       -> The Excel NOW() function returns the current date and time, updated continuously when a worksheet is changed or opened.
       -> The Excel TODAY() function returns the current date, updated continuously when a worksheet is changed or opened.
@@ -197,6 +205,7 @@ Participants in the activity will modify and illustrate numerous Text, Math, Log
       𝑺𝒚𝒏𝒕𝒂𝒙
          =𝘕𝘖𝘞() 
         =𝘛𝘖𝘋𝘈𝘠()
+        
   ## 5D. DATE,MONTH,YEAR
       DAY
           -> The Excel DAY function returns the day of the month as a number between 1 to 31 from a given date.
@@ -213,6 +222,11 @@ Participants in the activity will modify and illustrate numerous Text, Math, Log
           =𝘠𝘌𝘈𝘙(𝘴𝘦𝘳𝘪𝘢𝘭_𝘯𝘶𝘮𝘣𝘦𝘳)
           
   ## 5E. DAYS
+          -> The Excel DAYS function returns the number of days between two dates 
+          -> With a start date A1 and end date in B1, =DAYS(B1,A1) will return the days between the two dates 
+
+***Syntax*** 
+=*DAYS(end_date, start_date)*
 
 # 6. LOOKUP FUNCTIONS
   ## 6A. LOOKUP
@@ -232,6 +246,11 @@ Participants in the activity will modify and illustrate numerous Text, Math, Log
         𝑺𝒚𝒏𝒕𝒂𝒙
             =𝘔𝘈𝘛𝘊𝘏(𝘭𝘰𝘰𝘬𝘶𝘱_𝘵𝘺𝘱𝘦, 𝘭𝘰𝘰𝘬𝘶𝘱_𝘢𝘳𝘳𝘢𝘺, 𝘮𝘢𝘵𝘤𝘩_𝘵𝘺𝘱𝘦
   ## 6D. INDIRECT
+        -> The Excel INDIRECT function returns the reference to a cell based on its string representation.
+
+***Syntax***
+=*INDIRECT (string_reference, [ref_styel])*
+
   ## 6E. COLUMN
         -> The Excel COLUMNS function returns the count of columns in a given reference
 
