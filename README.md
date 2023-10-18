@@ -8,6 +8,8 @@ Below is the interactive dashboard created by the group:
 
 # DASHBOARD
 
+![Screenshot 2023-10-18 090153](https://github.com/itsayeee/GROUP12_MIDTERM-EXAMINATION-FINALE/assets/144222201/e1773516-3b7a-4172-abd0-debd65e85e71)
+
 # FUNCTION
 Participants in the activity will modify and illustrate numerous Text, Math, Logical, Formation, Date and Time, and Lookup Functions using Excel and the provided data. Below are the matching tables that the authors of this group produced by utilizing the various functions.
 
