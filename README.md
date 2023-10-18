@@ -191,6 +191,13 @@ Participants in the activity will modify and illustrate numerous Text, Math, Log
 
 # 5. DATE AND TIME FUNCTIONS
   ## 5A. DATE
+      -> The Excel DATE function creates a valid date from individual year, month and day components. 
+      -> The DATE function is useful for assembling dates that need to change dynamically based on other values in a worksheet 
+
+  ***Syntax***
+
+  =*Date(year,month,day)*
+  
   ## 5B. DATEVALUE
       -> The Excel DATEVALUE function converts text that appears in a recognized format (i.e. a number, date, or time format) into a numeric value 
 
