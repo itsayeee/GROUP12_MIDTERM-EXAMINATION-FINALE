@@ -153,7 +153,11 @@ Participants in the activity will modify and illustrate numerous Text, Math, Log
 
 # 4. INFORMATION FUNCTIONS
   ## 4A. ISERROR
+        -> The Excel ISERROR function returns TRUE for any error type Excel generates, including #N/A, #VALUE!, #REF!, #DIV/0!, #NUM!, #NAME?, or #NULL!.
 
+𝑺𝒚𝒏𝒕𝒂𝒙
+=*ISERROR (value)*
+            
   ## 4B. ISNUMBER
         -> The Excel ISNUMBER function returns TRUE when a cell contains a number, and FALSE if not.
         -> The ISNUMBER function is used to determine whether a cell's data contains a numerical value or not. The formula returns "TRUE" when the input is a number and "FALSE" when it is not.
@@ -171,7 +175,6 @@ Participants in the activity will modify and illustrate numerous Text, Math, Log
 
   ## 4D. ISEVEN
         -> The Excel ISEVEN function returns TRUE when a numeric value is even, and FALSE for odd numbers.
-
         -> ISEVEN will return the #VALUE error when a value is not numeric.
 
         𝑺𝒚𝒏𝒕𝒂𝒙
