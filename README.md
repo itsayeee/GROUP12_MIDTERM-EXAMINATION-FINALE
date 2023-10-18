@@ -125,12 +125,34 @@ Participants in the activity will modify and illustrate numerous Text, Math, Log
   ## 4A. ISERROR
 
   ## 4B. ISNUMBER
+        -> The Excel ISNUMBER function returns TRUE when a cell contains a number, and FALSE if not.
+        -> The ISNUMBER function is used to determine whether a cell's data contains a numerical value or not. The formula returns "TRUE" when the input is a number and "FALSE" when it is not.
+
+        𝑺𝒚𝒏𝒕𝒂𝒙
+            =𝘐𝘚𝘕𝘜𝘔𝘉𝘌𝘙 (𝘷𝘢𝘭𝘶𝘦)
 
   ## 4C. ISODD
+        -> The Excel ISODD function returns TRUE when a numeric value is odd and FALSE for even numbers.
+
+        -> ISODD will return the #VALUE error when a value is not numeric.
+
+        𝑺𝒚𝒏𝒕𝒂𝒙
+            =𝘐𝘚𝘖𝘋𝘋 (𝘷𝘢𝘭𝘶𝘦)
 
   ## 4D. ISEVEN
+        -> The Excel ISEVEN function returns TRUE when a numeric value is even, and FALSE for odd numbers.
+
+        -> ISEVEN will return the #VALUE error when a value is not numeric.
+
+        𝑺𝒚𝒏𝒕𝒂𝒙
+            =I𝘚𝘌𝘝𝘌𝘕(𝘷𝘢𝘭𝘶𝘦)
 
   ## 4E. ISTEXT
+        -> The Excel ISTEXT function returns TRUE when a cell contains a text, and FALSE if not.
+        -> The ISTEXT function is used to determine whether a cell's data contains a text or not. The formula returns "TRUE" when the input is a text and "FALSE" when it is not.
+        
+        𝑺𝒚𝒏𝒕𝒂𝒙
+              =𝘐𝘚𝘛𝘌𝘟𝘛(𝘷𝘢𝘭𝘶𝘦)
 
 # 5. DATE AND TIME FUNCTIONS
   ## 5A. DATE
