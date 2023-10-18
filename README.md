@@ -120,6 +120,36 @@ Participants in the activity will modify and illustrate numerous Text, Math, Log
 
 
 # 3. LOGICAL FUNCTIONS
+  ## 3A. IF
+        -> The Microsoft Excel IF function returns one value if the condition is TRUE, or another value if the condition is FALSE
+
+        𝑺𝒚𝒏𝒕𝒂𝒙
+            =𝘐𝘍( 𝘤𝘰𝘯𝘥𝘪𝘵𝘪𝘰𝘯, 𝘷𝘢𝘭𝘶𝘦_𝘪𝘧_𝘵𝘳𝘶𝘦, [𝘷𝘢𝘭𝘶𝘦_𝘪𝘧_𝘧𝘢𝘭𝘴𝘦] )
+
+  ## 3B. AND
+        -> The Microsoft Excel AND function returns TRUE if all arguments evaluate TRUE else return FALSE.
+
+        𝑺𝒚𝒏𝒕𝒂𝒙
+            =𝘈𝘕𝘋( 𝘤𝘰𝘯𝘥𝘪𝘵𝘪𝘰𝘯1, [𝘤𝘰𝘯𝘥𝘪𝘵𝘪𝘰𝘯2], ... )
+
+  ## 3C.OR
+        -> The OR function in Excel returns TRUE if any of the conditions are true and returns FALSE if all conditions are false.
+
+        𝑺𝒚𝒏𝒕𝒂𝒙
+            =𝘖𝘙( 𝘤𝘰𝘯𝘥𝘪𝘵𝘪𝘰𝘯1, [𝘤𝘰𝘯𝘥𝘪𝘵𝘪𝘰𝘯2, ... 𝘤𝘰𝘯𝘥𝘪𝘵𝘪𝘰𝘯_𝘯] )
+
+  ## 3D. NOT
+        -> The Microsoft Excel NOT function is used to check if one value is not equal to another If we give TRUE, it will return FALSE, and when given FALSE, it will return TRUE.
+
+        𝑺𝒚𝒏𝒕𝒂𝒙
+            =𝘕𝘖𝘛(𝘭𝘰𝘨𝘪𝘤𝘢𝘭)
+
+  ## 3E. XOR
+        -> The XOR Function was introduced in Excel 2013 and is available under Excel Logical functions. It is a logical "exclusive OR" function.
+        -> For two given logical statements, the XOR function would return TRUE if one of the statements is true and FALSE if both statements are true. If neither of the statements is true, it also returns FALSE.
+
+        𝑺𝒚𝒏𝒕𝒂𝒙
+            =𝘟𝘖𝘙( 𝘭𝘰𝘨𝘪𝘤𝘢𝘭1, [𝘭𝘰𝘨𝘪𝘤𝘢𝘭2], ... )
 
 # 4. INFORMATION FUNCTIONS
   ## 4A. ISERROR
