@@ -158,6 +158,12 @@ Participants in the activity will modify and illustrate numerous Text, Math, Log
   ## 5A. DATE
   ## 5B. DATEVALUE
   ## 5C. NOW AND TODAY
+      -> The Excel NOW() function returns the current date and time, updated continuously when a worksheet is changed or opened.
+      -> The Excel TODAY() function returns the current date, updated continuously when a worksheet is changed or opened.
+
+      𝑺𝒚𝒏𝒕𝒂𝒙
+         =𝘕𝘖𝘞() 
+        =𝘛𝘖𝘋𝘈𝘠()
   ## 5D. DATE,MONTH,YEAR
       DAY
           -> The Excel DAY function returns the day of the month as a number between 1 to 31 from a given date.
