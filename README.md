@@ -8,7 +8,7 @@ Below is the interactive dashboard created by the group:
 
 # DASHBOARD
 
-![Screenshot 2023-10-18 090153](https://github.com/itsayeee/GROUP12_MIDTERM-EXAMINATION-FINALE/assets/144222201/e1773516-3b7a-4172-abd0-debd65e85e71)
+![DASHBOARD](https://github.com/itsayeee/GROUP12_MIDTERM-EXAMINATION-FINALE/assets/144222201/275de71e-1bbe-4e77-b485-0abdf3cd3e4d)
 
 # FUNCTION
 Participants in the activity will modify and illustrate numerous Text, Math, Logical, Formation, Date and Time, and Lookup Functions using Excel and the provided data. Below are the matching tables that the authors of this group produced by utilizing the various functions.
@@ -126,11 +126,17 @@ Participants in the activity will modify and illustrate numerous Text, Math, Log
         𝑺𝒚𝒏𝒕𝒂𝒙
             =𝘐𝘍( 𝘤𝘰𝘯𝘥𝘪𝘵𝘪𝘰𝘯, 𝘷𝘢𝘭𝘶𝘦_𝘪𝘧_𝘵𝘳𝘶𝘦, [𝘷𝘢𝘭𝘶𝘦_𝘪𝘧_𝘧𝘢𝘭𝘴𝘦] )
 
+![IF](https://github.com/itsayeee/GROUP12_MIDTERM-EXAMINATION-FINALE/assets/144222201/e7c4c14b-c552-43f0-94c3-eef9ba161c11)
+
   ## 3B. AND
         -> The Microsoft Excel AND function returns TRUE if all arguments evaluate TRUE else return FALSE.
 
         𝑺𝒚𝒏𝒕𝒂𝒙
             =𝘈𝘕𝘋( 𝘤𝘰𝘯𝘥𝘪𝘵𝘪𝘰𝘯1, [𝘤𝘰𝘯𝘥𝘪𝘵𝘪𝘰𝘯2], ... )
+
+            
+![AND](https://github.com/itsayeee/GROUP12_MIDTERM-EXAMINATION-FINALE/assets/144222201/e99decab-2830-403f-84d6-3e560376ac19)
+
 
   ## 3C.OR
         -> The OR function in Excel returns TRUE if any of the conditions are true and returns FALSE if all conditions are false.
@@ -138,11 +144,14 @@ Participants in the activity will modify and illustrate numerous Text, Math, Log
         𝑺𝒚𝒏𝒕𝒂𝒙
             =𝘖𝘙( 𝘤𝘰𝘯𝘥𝘪𝘵𝘪𝘰𝘯1, [𝘤𝘰𝘯𝘥𝘪𝘵𝘪𝘰𝘯2, ... 𝘤𝘰𝘯𝘥𝘪𝘵𝘪𝘰𝘯_𝘯] )
 
+![OR](https://github.com/itsayeee/GROUP12_MIDTERM-EXAMINATION-FINALE/assets/144222201/2bd2f8ad-3555-418d-94b7-be5a2700cddb)
   ## 3D. NOT
         -> The Microsoft Excel NOT function is used to check if one value is not equal to another If we give TRUE, it will return FALSE, and when given FALSE, it will return TRUE.
 
         𝑺𝒚𝒏𝒕𝒂𝒙
             =𝘕𝘖𝘛(𝘭𝘰𝘨𝘪𝘤𝘢𝘭)
+
+![NOT](https://github.com/itsayeee/GROUP12_MIDTERM-EXAMINATION-FINALE/assets/144222201/1348f36c-0230-4657-9af0-4ae840e58621)
 
   ## 3E. XOR
         -> The XOR Function was introduced in Excel 2013 and is available under Excel Logical functions. It is a logical "exclusive OR" function.
@@ -151,6 +160,9 @@ Participants in the activity will modify and illustrate numerous Text, Math, Log
         𝑺𝒚𝒏𝒕𝒂𝒙
             =𝘟𝘖𝘙( 𝘭𝘰𝘨𝘪𝘤𝘢𝘭1, [𝘭𝘰𝘨𝘪𝘤𝘢𝘭2], ... )
 
+![XOR](https://github.com/itsayeee/GROUP12_MIDTERM-EXAMINATION-FINALE/assets/144222201/0d662b9a-c011-4b74-94ab-cfab5c78b79d)
+
+
 # 4. INFORMATION FUNCTIONS
   ## 4A. ISERROR
         -> The Excel ISERROR function returns TRUE for any error type Excel generates, including #N/A, #VALUE!, #REF!, #DIV/0!, #NUM!, #NAME?, or #NULL!.
@@ -158,7 +170,10 @@ Participants in the activity will modify and illustrate numerous Text, Math, Log
 𝑺𝒚𝒏𝒕𝒂𝒙
 
 =*ISERROR (value)*
-            
+
+![ISERROR](https://github.com/itsayeee/GROUP12_MIDTERM-EXAMINATION-FINALE/assets/144222201/92fb653f-e961-43ff-b4a3-0768f29c7c58)
+
+
   ## 4B. ISNUMBER
         -> The Excel ISNUMBER function returns TRUE when a cell contains a number, and FALSE if not.
         -> The ISNUMBER function is used to determine whether a cell's data contains a numerical value or not. The formula returns "TRUE" when the input is a number and "FALSE" when it is not.
@@ -173,6 +188,9 @@ Participants in the activity will modify and illustrate numerous Text, Math, Log
 
         𝑺𝒚𝒏𝒕𝒂𝒙
             =𝘐𝘚𝘖𝘋𝘋 (𝘷𝘢𝘭𝘶𝘦)
+
+
+![ISODD](https://github.com/itsayeee/GROUP12_MIDTERM-EXAMINATION-FINALE/assets/144222201/3b7612fa-39d0-48e1-9fc2-b0df54d74173)
 
   ## 4D. ISEVEN
         -> The Excel ISEVEN function returns TRUE when a numeric value is even, and FALSE for odd numbers.
