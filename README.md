@@ -324,5 +324,10 @@ Participants in the activity will modify and illustrate numerous Text, Math, Log
             =𝘊𝘖𝘓𝘜𝘔𝘕𝘚 (𝘢𝘳𝘳𝘢𝘺)
 ![COLUMN](https://github.com/itsayeee/GROUP12_MIDTERM-EXAMINATION-FINALE/assets/144222201/005c747a-9838-4385-889b-82455b365813)
 
+# REFERENCES
+
+https://www.kaggle.com/datasets/johnjoemmelrodelas/philippine-public-education-data
+https://www.youtube.com/@mikkodetorres
+
 
 
