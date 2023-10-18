@@ -181,6 +181,10 @@ Participants in the activity will modify and illustrate numerous Text, Math, Log
         𝑺𝒚𝒏𝒕𝒂𝒙
             =𝘐𝘚𝘕𝘜𝘔𝘉𝘌𝘙 (𝘷𝘢𝘭𝘶𝘦)
 
+            
+![ISNUMBER](https://github.com/itsayeee/GROUP12_MIDTERM-EXAMINATION-FINALE/assets/144222201/d1f9b2f2-2a15-46ff-96dc-6767272be59b)
+
+
   ## 4C. ISODD
         -> The Excel ISODD function returns TRUE when a numeric value is odd and FALSE for even numbers.
 
@@ -199,6 +203,9 @@ Participants in the activity will modify and illustrate numerous Text, Math, Log
         𝑺𝒚𝒏𝒕𝒂𝒙
             =I𝘚𝘌𝘝𝘌𝘕(𝘷𝘢𝘭𝘶𝘦)
 
+            
+![ISEVEN](https://github.com/itsayeee/GROUP12_MIDTERM-EXAMINATION-FINALE/assets/144222201/51d9a8d8-2c37-481e-8a3b-9d8b05dfb34e)
+
   ## 4E. ISTEXT
         -> The Excel ISTEXT function returns TRUE when a cell contains a text, and FALSE if not.
         -> The ISTEXT function is used to determine whether a cell's data contains a text or not. The formula returns "TRUE" when the input is a text and "FALSE" when it is not.
@@ -206,6 +213,8 @@ Participants in the activity will modify and illustrate numerous Text, Math, Log
         𝑺𝒚𝒏𝒕𝒂𝒙
         
               =𝘐𝘚𝘛𝘌𝘟𝘛(𝘷𝘢𝘭𝘶𝘦)
+
+![ISTEXT](https://github.com/itsayeee/GROUP12_MIDTERM-EXAMINATION-FINALE/assets/144222201/179b33e0-cf5e-4c4d-8cce-82b11e760553)
 
 # 5. DATE AND TIME FUNCTIONS
   ## 5A. DATE
