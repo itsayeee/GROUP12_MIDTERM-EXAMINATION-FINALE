@@ -28,6 +28,8 @@ Participants in the activity will modify and illustrate numerous Text, Math, Log
          
       𝑺𝒚𝒏𝒕𝒂𝒙
         =𝘜𝘗𝘗𝘌𝘙(𝘵𝘦𝘹𝘵)
+
+![UPPER](https://github.com/itsayeee/GROUP12_MIDTERM-EXAMINATION-FINALE/assets/144222201/9f46e30d-4b3a-465a-b451-def67627b36c)
         
    ## 1C. LOWER
 
