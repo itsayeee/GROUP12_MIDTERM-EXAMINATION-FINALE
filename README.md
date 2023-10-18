@@ -269,17 +269,28 @@ Participants in the activity will modify and illustrate numerous Text, Math, Log
 
         𝑺𝒚𝒏𝒕𝒂𝒙
             =𝘓𝘖𝘖𝘒𝘜𝘗( 𝘷𝘢𝘭𝘶𝘦, 𝘭𝘰𝘰𝘬𝘶𝘱_𝘳𝘢𝘯𝘨𝘦, [𝘳𝘦𝘴𝘶𝘭𝘵_𝘳𝘢𝘯𝘨𝘦] ) 
-            
+
+![LOOKUP](https://github.com/itsayeee/GROUP12_MIDTERM-EXAMINATION-FINALE/assets/144222201/bf1d3737-4876-4a29-a00c-be758056f2f5)
+
   ## 6B. CHOOSE
         -> The CHOOSE function in Excel is designed to return a value from the list based on a specified position.
 
         𝑺𝒚𝒏𝒕𝒂𝒙
             = 𝘊𝘏𝘖𝘖𝘚𝘌(𝘱𝘰𝘴𝘪𝘵𝘪𝘰𝘯, 𝘷𝘢𝘭𝘶𝘦1, [𝘷𝘢𝘭𝘶𝘦2, ... 𝘷𝘢𝘭𝘶𝘦_𝘯]
+
+
+![CHOOSE](https://github.com/itsayeee/GROUP12_MIDTERM-EXAMINATION-FINALE/assets/144222201/270a7fd9-c55e-4741-9cc9-f8346e57cae2)
+
+
   ## 6C. MATCH
         -> The Excel MATCH function returns the position of an item in a range
 
         𝑺𝒚𝒏𝒕𝒂𝒙
             =𝘔𝘈𝘛𝘊𝘏(𝘭𝘰𝘰𝘬𝘶𝘱_𝘵𝘺𝘱𝘦, 𝘭𝘰𝘰𝘬𝘶𝘱_𝘢𝘳𝘳𝘢𝘺, 𝘮𝘢𝘵𝘤𝘩_𝘵𝘺𝘱𝘦
+
+![MATCH](https://github.com/itsayeee/GROUP12_MIDTERM-EXAMINATION-FINALE/assets/144222201/0e94d540-8a40-4bf7-9b5b-426354a8f3d0)
+
+
   ## 6D. INDIRECT
         -> The Excel INDIRECT function returns the reference to a cell based on its string representation.
 
@@ -290,6 +301,8 @@ Participants in the activity will modify and illustrate numerous Text, Math, Log
     *ref_style* - Optional. It is the reference style to use: either A1 or R1C1. If this parameter is omitted, it assumes that the ref_style is set to TRUE.
 
 
+![INDIRECT](https://github.com/itsayeee/GROUP12_MIDTERM-EXAMINATION-FINALE/assets/144222201/99581adf-2d61-4bc4-b3bf-06ee67c97068)
+
 ***Syntax***
 
 =*INDIRECT (string_reference, [ref_styel])*
@@ -299,7 +312,7 @@ Participants in the activity will modify and illustrate numerous Text, Math, Log
 
         𝑺𝒚𝒏𝒕𝒂𝒙
             =𝘊𝘖𝘓𝘜𝘔𝘕𝘚 (𝘢𝘳𝘳𝘢𝘺)
-
+![COLUMN](https://github.com/itsayeee/GROUP12_MIDTERM-EXAMINATION-FINALE/assets/144222201/005c747a-9838-4385-889b-82455b365813)
 
 
 
