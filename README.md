@@ -40,6 +40,8 @@ Participants in the activity will modify and illustrate numerous Text, Math, Log
       𝑺𝒚𝒏𝒕𝒂𝒙
         =𝘓𝘖𝘞𝘌𝘙(𝘵𝘦𝘹𝘵)
 
+![LOWER](https://github.com/itsayeee/GROUP12_MIDTERM-EXAMINATION-FINALE/assets/144222201/9bfb3e8c-fd31-4d9f-b8af-ae06c550620a)
+
 # B. MATH FUNCTIONS
 
 # C. LOGICAL FUNCTIONS
