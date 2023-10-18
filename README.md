@@ -19,6 +19,8 @@ Participants in the activity will modify and illustrate numerous Text, Math, Log
         
       𝑺𝒚𝒏𝒕𝒂𝒙
         = 𝘛𝘙𝘐𝘔( 𝘵𝘦𝘹𝘵)
+
+![TRIM](https://github.com/itsayeee/GROUP12_MIDTERM-EXAMINATION-FINALE/assets/144222201/3f93e9fc-6cbe-4a47-8449-aecab9806579)
         
    ## 1B. UPPER
 
