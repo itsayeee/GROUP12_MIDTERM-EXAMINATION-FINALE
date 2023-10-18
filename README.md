@@ -13,7 +13,9 @@ Participants in the activity will modify and illustrate numerous Text, Math, Log
 
 # 1. TEXT FUNCTIONS
   1A. Trim
-        The Microsoft Excel TRIM function returns a text value with the leading and trailing spaces removed. You can also use the TRIM function to remove unnecessary spaces between     words in a string.
+        The Microsoft Excel TRIM function returns a text value with the leading and trailing spaces removed. You can also use the TRIM function to remove unnecessary spaces between
+        words in a string.
+        
       𝑺𝒚𝒏𝒕𝒂𝒙
         = 𝘛𝘙𝘐𝘔( 𝘵𝘦𝘹𝘵)
 
