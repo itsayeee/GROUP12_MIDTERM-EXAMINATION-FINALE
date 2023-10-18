@@ -42,6 +42,27 @@ Participants in the activity will modify and illustrate numerous Text, Math, Log
 
 ![LOWER](https://github.com/itsayeee/GROUP12_MIDTERM-EXAMINATION-FINALE/assets/144222201/9bfb3e8c-fd31-4d9f-b8af-ae06c550620a)
 
+  ## 1D. PROPER
+
+          The Microsoft Excel PROPER function sets the first character in each word to uppercase and the rest to lowercase.
+
+      𝑺𝒚𝒏𝒕𝒂𝒙
+         = 𝘗𝘙𝘖𝘗𝘌𝘙(𝘵𝘦𝘹𝘵)
+
+  ## 1E. SUBSTITUTE
+
+          The Microsoft Excel SUBSTITUTE function replaces a set of characters with another.
+          
+      𝑺𝒚𝒏𝒕𝒂𝒙
+           =𝘚𝘜𝘉𝘚𝘛𝘐𝘛𝘜𝘛𝘌(𝘵𝘦𝘹𝘵,𝘰𝘭𝘥_𝘵𝘦𝘹𝘵,𝘯𝘦𝘸_𝘵𝘦𝘹𝘵, [𝘯𝘵𝘩_𝘢𝘱𝘱𝘦𝘢𝘳𝘢𝘯𝘤𝘦])
+
+      Parameters
+
+            -> text - The original string to use to perform the substitution
+            -> old_text - The existing characters to replace
+            -> new_text - The new characters to replace old_text with.
+            -> nth_appearance Optional It is the nth appearance of the old_text that you wish to replace. If this parameter is omitted, then every occurrence of old_text will be replaced with test text
+
 # B. MATH FUNCTIONS
 
 # C. LOGICAL FUNCTIONS
